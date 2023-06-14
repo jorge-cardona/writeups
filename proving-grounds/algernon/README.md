@@ -19,7 +19,7 @@
 🔎 The build number is below the build required for the exploit (6985).\
 ![smatermail-build](images/smartermail-build.png)
 
-💀 Modify and run the exploit to get access as System.\
+💀 Modify and run the exploit to get access as System.
 ```python
 HOST='192.168.159.65'
 PORT=17001
