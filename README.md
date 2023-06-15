@@ -5,6 +5,7 @@ Writeups for the machines in the [NetSecFocus Thropy Room](https://docs.google.c
 ### Iconography
 
 🔎 Discovery.\
+🔑 Credentials.\
 💀 Exploitation.\
 🏳 User Flag.\
 🏴 Admin Flag.
