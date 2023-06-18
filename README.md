@@ -6,6 +6,7 @@ Writeups for the machines in the [NetSecFocus Thropy Room](https://docs.google.c
 
 🔎 Discovery.\
 🔑 Credentials.\
+📝 Script.\
 💀 Exploitation.\
 🏳 User Flag.\
 🏴 Admin Flag.
@@ -17,7 +18,7 @@ Writeups for the machines in the [NetSecFocus Thropy Room](https://docs.google.c
 | ☑ Algernon     | ☐ MedJed       | ☐ Banzai       | ☐ Pelican      |
 | ☑ Authby       | ☐ Metallus     | ☐ ClamAV       | ☐ Peppo        |
 | ☑ Billyboss    | ☐ Nickel       | ☐ Depreciated  | ☐ Postfish     |
-| ☐ Butch        | ☐ resourced    | ☐ Dibble       | ☐ Readys       |
+| ☑ Butch        | ☐ resourced    | ☐ Dibble       | ☐ Readys       |
 | ☐ compromised  | ☐ robust       | ☐ ERP          | ☐ Snookums     |
 | ☐ Craft        | ☐ Shenzi       | ☐ Exfiltrated  | ☐ Sorcerer     |
 | ☐ Craft2       | ☐ Slort        | ☐ Fail         | ☐ Sybaris      |
