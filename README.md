@@ -25,7 +25,7 @@ Writeups for the machines in the [NetSecFocus Thropy Room](https://docs.google.c
 | ☐ DVR4         | ☐ Squid        | ☐ Hawat        | ☐ Voip         |
 | ☐ Heist        | ☐ UT99         | ☐ Hetemit      | ☐ Walla        |
 | ☐ Hepet        | ☐ Vault        | ☐ Hunit        | ☐ Wheels       |
-| ☐ Hutch        |                | ☐ Malbec       | ☐ Wombo        |
+| ☑ Hutch        |                | ☐ Malbec       | ☐ Wombo        |
 | ☐ Jacko        |                | ☐ Nibbles      | ☐ ZenPhoto     |
 | ☐ Kevin        |                | ☐ Nukem        | ☐ Zino         |
 | ☐ MeatHead     |                | ☐ Payday       |                |
