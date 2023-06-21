@@ -15,7 +15,7 @@ Writeups for the machines in the [NetSecFocus Thropy Room](https://docs.google.c
 
 | Windows        |                | Linux          |                |
 | ---------------|----------------|----------------|----------------|
-| ☑ Algernon     | ☐ MedJed       | ☐ Banzai       | ☐ Pelican      |
+| ☑ Algernon     | ☑ MedJed       | ☐ Banzai       | ☐ Pelican      |
 | ☑ Authby       | ☐ Metallus     | ☐ ClamAV       | ☐ Peppo        |
 | ☑ Billyboss    | ☐ Nickel       | ☐ Depreciated  | ☐ Postfish     |
 | ☑ Butch        | ☐ resourced    | ☐ Dibble       | ☐ Readys       |
