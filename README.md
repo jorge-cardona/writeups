@@ -27,5 +27,5 @@ Writeups for the machines in the [NetSecFocus Thropy Room](https://docs.google.c
 | ☐ Hepet        | ☐ Vault        | ☐ Hunit        | ☐ Wheels       |
 | ☑ Hutch        |                | ☐ Malbec       | ☐ Wombo        |
 | ☐ Jacko        |                | ☐ Nibbles      | ☐ ZenPhoto     |
-| ☐ Kevin        |                | ☐ Nukem        | ☐ Zino         |
+| ☑ Kevin        |                | ☐ Nukem        | ☐ Zino         |
 | ☐ MeatHead     |                | ☐ Payday       |                |
