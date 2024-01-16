@@ -22,7 +22,7 @@ Writeups for the machines in the [NetSecFocus Thropy Room](https://docs.google.c
 | `☐` compromised  | `☐` robust       | `☐` ERP          | `☐` Snookums     |
 | `☑` Craft        | `☐` Shenzi       | `☐` Exfiltrated  | `☐` Sorcerer     |
 | `☐` Craft2       | `☑` Slort        | `☐` Fail         | `☐` Sybaris      |
-| `☐` DVR4         | `☑` Squid        | `☐` Hawat        | `☐` Voip         |
+| `☑` DVR4         | `☑` Squid        | `☐` Hawat        | `☐` Voip         |
 | `☐` Heist        | `☐` UT99         | `☐` Hetemit      | `☐` Walla        |
 | `☐` Hepet        | `☐` Vault        | `☐` Hunit        | `☐` Wheels       |
 | `☑` Hutch        |                  | `☐` Malbec       | `☐` Wombo        |
